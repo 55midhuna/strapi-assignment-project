@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_home_banner_sections",
+  "info": {
+    "displayName": "Banner Section"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "text"
+    },
+    "background_image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "call_to_action_button": {
+      "displayName": "Button",
+      "type": "component",
+      "repeatable": false,
+      "component": "common.button"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_common_social_media_links",
+  "info": {
+    "displayName": "Social Media Links"
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    },
+    "icon": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
