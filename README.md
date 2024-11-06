@@ -3,7 +3,7 @@
 
 
 ```bash
-  gitn clone https://github.com/55midhuna/strapi-assignment-project.git
+  git clone https://github.com/55midhuna/strapi-assignment-project.git
 
   git checkout develop
 
